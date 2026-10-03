@@ -150,11 +150,11 @@ The recording provides a usable demonstration of the application, including its 
 
 ## Run details to complete
 
-- Python version:
-- Ultralytics version:
-- Image-evaluation inference size:
-- Laptop CPU/GPU:
-- Inference device (CPU or GPU):
-- Webcam model: `yolov8s-oiv7.pt` as configured for the project; script/log not supplied.
-- Webcam confidence threshold: 0.4 (author-reported).
+- Python version: 3.14.5
+- Ultralytics version: 8.4.171
+- Image-evaluation inference size: 640
+- Laptop CPU/GPU: i7-13700HX / NVIDIA GeForce RTX 4060 Laptop GPU
+- Inference device (CPU or GPU): CPU
+- Webcam model: `yolov8s-oiv7.pt` (YOLOv8 small), confirmed in `detect_webcam.py`.
+- Webcam confidence threshold: 0.4, confirmed in `detect_webcam.py`.
 - Webcam speed results: mean 9.06 processing FPS at each tested image size on battery power; plugged-in means 15.78 at 640 and 43.12 at 320.
