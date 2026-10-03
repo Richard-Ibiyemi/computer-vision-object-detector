@@ -148,7 +148,7 @@ The processing-FPS overlay is mostly around 13–15 in the sampled frames after 
 
 The recording provides a usable demonstration of the application, including its detection gaps. No frame-by-frame ground-truth annotation was performed, so no video accuracy or detection-success percentage is reported.
 
-## Run details to complete
+## Run details
 
 - Python version: 3.14.5
 - Ultralytics version: 8.4.171
