@@ -1,0 +1,21 @@
+# Local Python environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Downloaded model weights
+*.pt
+
+# Generated outputs
+outputs/
+runs/
+
+# Local configuration
+.env
+.vscode/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
